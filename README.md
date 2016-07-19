@@ -1,12 +1,15 @@
 # MyTube
 Download , Watch , Convert and Share Direct Download Links From YouTube
+
+![MyTube Screenshot](http://smartpcsoft.com/img/products/screen/mytube/screens.jpg)
+
 http://smartpcsoft.com/mytube.html
 
 MyTube is an open source software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 MyTube is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-Key Features:
+# Key Features
 
 -Free open source software.
 
@@ -26,7 +29,7 @@ Key Features:
 
 -No purchase or registration required.
 
-System Requirements:
+# System Requirements
 
 Microsoft Windows 8.
 
@@ -42,7 +45,7 @@ Microsoft .NET Framework 4 Client Profile.
 
 Microsoft Visual C++ 2008 Redistributable Package.
 
-Hardware Requirements:
+# Hardware Requirements
 
 512 MB of RAM.
 
@@ -67,4 +70,5 @@ Share Direct Download Links
 
 with mytube you can share sirect download links with your friends.
 
-Awards: http://smartpcsoft.com/awards.html#mytube
+#Awards
+http://smartpcsoft.com/awards.html#mytube
